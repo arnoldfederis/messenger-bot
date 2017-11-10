@@ -1,5 +1,5 @@
 ## Description
-Laravel Messenger Bot
+Laravel Facebook Messenger Bot
 
 ## Compatibility
 Any Laravel 5+ Version.
