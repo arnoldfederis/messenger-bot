@@ -1,19 +1,18 @@
 ## Laravel
 
-## Version
-Laravel 5.*
+## Description
+Laravel Messenger Bot
+
+## Compatibility
+Any Laravel 5+ Version.
 
 ## Tutorial
-https://www.youtube.com/watch?v=rwdL2SdVy78&feature=youtu.be
-
-## Description
-- Laravel Messenger Bot
+https://www.youtube.com/watch?v=rwdL2SdVy78
 
 ## How to install
 - clone or download zip file
 - rename messenger-bot to the name that you want
 - rename .env.example file to .env
-- put the PAGE_ACCESS_TOKEN & FACEBOOK_MESSENGER_WEBHOOK_TOKEN in .env file.
 - composer install
 - php artisan key:generate
 
