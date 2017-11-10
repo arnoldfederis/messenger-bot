@@ -1,0 +1,28 @@
+Hello :)
+
+First thing we need to do is to set our routes.
+We need to set our routes to GET & POST.
+
+Now we need to create a controller.
+Inside of our controller create a index method.
+
+Now Let's set up our .env file.
+
+Behind the scene i already create my page.
+In developers.facebook.com you need to create your appid.
+Create a test app for messenger.
+Select the page that you create.
+Copy the page access token and paste it on .env file
+
+Not let's set up our webhooks.
+in terminal we need to set our local server.
+i am using laravel valet so that i can share it.
+Copy the https:// url.
+We set up our web hook, we need to subscribe to page that we create.
+
+We can now set up a bot message.
+
+Let's except the route that we create in verifycsrftoken
+Now it's working.
+
+Thanks for watching.
