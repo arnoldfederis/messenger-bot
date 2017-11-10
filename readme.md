@@ -1,5 +1,3 @@
-## Laravel
-
 ## Description
 Laravel Messenger Bot
 
