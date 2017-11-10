@@ -2,7 +2,7 @@
 Laravel Facebook Messenger Bot
 
 ## Compatibility
-Any Laravel 5+ Version.
+Laravel 5.1+ Version.
 
 ## Tutorial
 https://www.youtube.com/watch?v=rwdL2SdVy78
